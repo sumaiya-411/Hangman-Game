@@ -2,7 +2,7 @@
 
 This is a simple command-line Hangman game written in Python. The player must guess letters to reveal a hidden word, with a limited number of incorrect attempts allowed.
 
-## Features
+## Features are
 
 - Random word selection from a predefined list.
 - Real-time feedback on guesses.
